@@ -1,6 +1,7 @@
 ## Customer Behavior Analysis - Tableau
 This project is a comprehensive customer behavior analysis dashboard built in Tableau, designed to help businesses understand their customers’ purchasing habits, campaign response, product preferences, and demographic patterns. By transforming raw data into visual insights, this dashboard empowers decision-makers to identify trends, optimize marketing efforts, and improve customer engagement.
-
+<img width="1577" height="815" alt="Customer Behavior Analysis dashboard" src="https://github.com/user-attachments/assets/1b00618a-39d5-4f1c-8497-085c952a209c" />
+Live on Tableau Public: https://public.tableau.com/app/profile/qamar.mehmood/viz/Customer_Behaviour_Dashboard/Dashboard1
 ### Key Features
 
 Purchase Analysis by Marital Status
